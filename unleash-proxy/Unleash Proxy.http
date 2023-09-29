@@ -1,0 +1,3 @@
+GET http://localhost:3000/proxy
+Authorization: proxy-client-73121
+content-type: application/json
